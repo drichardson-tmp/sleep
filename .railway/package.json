@@ -1,0 +1,8 @@
+{
+  "name": "sleep-infrastructure",
+  "private": true,
+  "type": "module",
+  "scripts": { "check": "tsc --noEmit" },
+  "dependencies": { "railway": "3.11.0" },
+  "devDependencies": { "typescript": "^5.9.3", "@types/node": "^22" }
+}
